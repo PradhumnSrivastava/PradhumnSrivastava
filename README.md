@@ -1,5 +1,5 @@
 # Hi there, Pradhumn Srivastava
-![Banner](https://your-image-link.com/banner.png)
+![Typing](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Data+Science;Machine+Learning;LLMs+%7C+RAG+%7C+GenAI)
 ## **Data Scientist**
 
 ## Contribution Streak  
