@@ -1,4 +1,4 @@
-# Hi there, I'm Pradyumna
+# Hi there, Pradhumn Srivastava
 
 Data Science Enthusiast | Machine Learning | Generative AI  
 
@@ -7,9 +7,9 @@ Data Science Enthusiast | Machine Learning | Generative AI
 ## About Me  
 I'm passionate about building **data-driven solutions** and understanding problems from first principles.
 
-- 🎓 Background: **Postgraduate**
-- 📊 Interested in **Machine Learning, Statistics & AI**
-- 🧠 Currently learning:
+-  Interested in
+-  **Machine Learning, Deep Learning, NLP, GenAi, Agentic Ai Statistics & AI**
+-  Currently learning:
   - Linear Algebra  
   - Probability & Statistics  
   - Machine Learning Algorithms  
@@ -17,7 +17,7 @@ I'm passionate about building **data-driven solutions** and understanding proble
   - Retrieval-Augmented Generation (RAG)  
   - Generative AI (GenAI)  
   - Agentic AI Systems  
-- 🛠️ Focused on **real-world projects + deep understanding**
+- Focused on **real-world projects + deep understanding**
 
 ---
 
@@ -50,7 +50,6 @@ I'm passionate about building **data-driven solutions** and understanding proble
 ### Generative AI  
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-LLMs, RAG Pipelines, Prompt Engineering, HuggingFace Transformers  
 
 ---
 
@@ -109,9 +108,8 @@ LLMs, RAG Pipelines, Prompt Engineering, HuggingFace Transformers
 
 ## GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact)
 
 ---
 
