@@ -100,7 +100,7 @@ Currently exploring **LLMs, RAG, and Agentic AI** to develop intelligent, scalab
 
 ## Experience  
 
-**GeeksforGeeks — Data Science Intern (1 Month)**  
+**GeeksforGeeks — Data Science Intern (3 Month)**  
 - Worked on practical data science problems and implementations  
 - Strengthened understanding of ML workflows and real-world datasets  
 - Applied theoretical concepts to projects  
