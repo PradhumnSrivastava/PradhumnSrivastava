@@ -3,27 +3,25 @@
 Data Science Enthusiast | Machine Learning | Generative AI  
 
 ---
-
 ## About Me  
-I'm passionate about building **data-driven solutions** and understanding problems from first principles.
 
--  Interested in
--  **Machine Learning, Deep Learning, NLP, GenAi, Agentic Ai Statistics & AI**
--  Currently learning:
-  - Linear Algebra  
-  - Probability & Statistics  
-  - Machine Learning Algorithms  
-  - Large Language Models (LLMs)  
-  - Retrieval-Augmented Generation (RAG)  
-  - Generative AI (GenAI)  
-  - Agentic AI Systems  
-- Focused on **real-world projects + deep understanding**
+Passionate about building **data-driven solutions** with a focus on deep, first-principles understanding.
+
+- Interested in **Machine Learning, Deep Learning, NLP, GenAI, Agentic AI, and Statistics**
+  - Linear Algebra, Probability & Statistics, Machine Learning Algorithms  
+  - LLMs, RAG, and GenAI systems Focused on **real-world projects and practical implementation**
 
 ---
+
+
 
 ## Contribution Streak  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight)
+
+## GitHub Stats  
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PradhumnSrivastava&theme=github_dark)
 
 ---
 
@@ -106,9 +104,7 @@ I'm passionate about building **data-driven solutions** and understanding proble
 
 ---
 
-## GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 
 ---
