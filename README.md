@@ -24,9 +24,11 @@ Passionate about building **data-driven solutions** with a focus on deep, first-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava)
 
 ## Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=darkhub&no-frame=true&margin-w=10)
 
 ![Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradhumnSrivastava&theme=github_dark)
 
 ---
 
