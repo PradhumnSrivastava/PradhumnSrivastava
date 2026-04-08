@@ -1,5 +1,5 @@
 # Hi there, Pradhumn Srivastava
-
+![Banner](https://your-image-link.com/banner.png)
 ## **Data Scientist**
 
 ## Contribution Streak  
@@ -11,9 +11,6 @@
 
 ## Activity Streak
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava)
-
-## Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=darkhub&no-frame=true&margin-w=10)
 
 ![Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
