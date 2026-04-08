@@ -12,9 +12,6 @@ Passionate about building **data-driven solutions** with a focus on deep, first-
   - LLMs, RAG, and GenAI systems Focused on **real-world projects and practical implementation**
 
 ---
-
-
-
 ## Contribution Streak  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight)
@@ -22,6 +19,14 @@ Passionate about building **data-driven solutions** with a focus on deep, first-
 ## GitHub Stats  
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PradhumnSrivastava&theme=github_dark)
+
+## Activity Streak
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava)
+
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava)
+
+![Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
