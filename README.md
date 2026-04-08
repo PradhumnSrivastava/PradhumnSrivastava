@@ -1,24 +1,13 @@
 # Hi there, Pradhumn Srivastava
 
-Data Science Enthusiast | Machine Learning | Generative AI  
+## **Data Scientist**
 
----
-## About Me  
-
-Passionate about building **data-driven solutions** with a focus on deep, first-principles understanding.
-
-- Interested in **Machine Learning, Deep Learning, NLP, GenAI, Agentic AI, and Statistics**
-  - Linear Algebra, Probability & Statistics, Machine Learning Algorithms  
-  - LLMs, RAG, and GenAI systems Focused on **real-world projects and practical implementation**
-
----
 ## Contribution Streak  
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight)
 
 ## GitHub Stats  
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PradhumnSrivastava&theme=github_dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=darkhub&row=1&column=4)
 
 ## Activity Streak
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava)
@@ -109,13 +98,6 @@ Passionate about building **data-driven solutions** with a focus on deep, first-
 - Converts long text into concise summaries  
 - Focus on real-world NLP use case  
 
----
-
-
-
-
----
-
 ## Experience  
 
 **GeeksforGeeks — Data Science Intern (1 Month)**  
@@ -130,4 +112,3 @@ Passionate about building **data-driven solutions** with a focus on deep, first-
 - Email: srivastavapradhumn@gmail.com  
 - LinkedIn: www.linkedin.com/in/pradhumn-srivastava  
 
----
