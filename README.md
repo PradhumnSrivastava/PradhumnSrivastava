@@ -1,13 +1,13 @@
-# 👋 Hi there, I'm Pradyumna!
+# Hi there, I'm Pradyumna
 
-🎯 Data Science Enthusiast | 📊 Future ML Engineer | 🧠 Logical Thinker  
+Data Science Enthusiast | Machine Learning | Generative AI  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I'm passionate about building **data-driven solutions** and understanding problems from first principles.
 
-- 🎓 Background: **M.Com → Data Science Transition**
+- 🎓 Background: **Postgraduate**
 - 📊 Interested in **Machine Learning, Statistics & AI**
 - 🧠 Currently learning:
   - Linear Algebra  
@@ -21,109 +21,112 @@ I'm passionate about building **data-driven solutions** and understanding proble
 
 ---
 
-## 🧰 Tech Stack  
-
-### 💻 Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 📊 Data Science  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-### 🤖 Generative AI  
-LLMs, RAG Pipelines, Prompt Engineering, HuggingFace Transformers  
-
----
-
-## 📌 Current Focus  
-- 📈 Building **End-to-End Data Science & AI Projects**  
-- 🧪 Practicing **EDA (Exploratory Data Analysis)**  
-- ⚙️ Understanding ML from **math + intuition level**  
-- 🤖 Developing **LLM + RAG + Agentic AI systems**  
-- 📊 Preparing for **Data Science Interviews**
-
----
-
-## 🧠 Featured Projects  
-
-### 🔹 Sentiment Analysis System  
-- Developed an NLP-based model to classify text into positive, negative, and neutral sentiments  
-- Performed text preprocessing (tokenization, stopword removal, vectorization)  
-- Trained machine learning models and evaluated performance  
-
----
-
-### 🔹 Movie Recommendation System  
-- Built a content-based recommendation engine  
-- Used similarity metrics to suggest relevant movies  
-- Focused on user preference understanding and scalability  
-
----
-
-### 🔹 RAG-based Chatbot  
-- Implemented Retrieval-Augmented Generation using LLMs  
-- Combined document retrieval with response generation  
-- Designed system for context-aware and fact-based answers  
-
----
-
-### 🔹 YouTube Notes Extractor  
-- Extracted transcripts from YouTube videos  
-- Converted long video content into structured notes  
-- Applied summarization techniques for better readability  
-
----
-
-### 🔹 Loan Approval Prediction System  
-- Built a classification model to predict loan approval status  
-- Performed EDA, feature engineering, and data preprocessing  
-- Evaluated models using performance metrics  
-
----
-
-### 🔹 Text Summarization Tool  
-- Built using HuggingFace Transformers  
-- Converts long text into concise summaries  
-- Focus: NLP + real-world application  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak  
+## Contribution Streak  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight)
 
 ---
 
-## 🏆 Achievements  
-- 🚀 Consistently building real-world projects  
-- 📊 Strong foundation in Data Science fundamentals  
-- 🤖 Actively exploring LLMs, RAG, and AI systems  
+## Tech Stack  
+
+### Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Data Science  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### Deep Learning  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Generative AI  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+LLMs, RAG Pipelines, Prompt Engineering, HuggingFace Transformers  
 
 ---
 
-## ☕ Support Me  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_LINK)
+## Current Focus  
+- Building **End-to-End Data Science & AI Projects**  
+- Practicing **EDA (Exploratory Data Analysis)**  
+- Understanding ML from **math + intuition level**  
+- Developing **LLM + RAG + Agentic AI systems**  
+- Preparing for **Data Science Interviews**
 
 ---
 
-## 🤝 Connect With Me  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
+## Featured Projects  
+
+### Sentiment Analysis System  
+- NLP-based model to classify text into positive, negative, and neutral sentiments  
+- Applied preprocessing (tokenization, stopword removal, vectorization)  
+- Trained and evaluated classification models  
 
 ---
 
-⭐ *"Deep understanding > superficial knowledge"*  
+### Movie Recommendation System  
+- Built a content-based recommendation engine  
+- Used similarity metrics for personalized suggestions  
+- Focused on scalability and relevance  
+
+---
+
+### RAG-based Chatbot  
+- Implemented Retrieval-Augmented Generation using LLMs  
+- Combined document retrieval with response generation  
+- Designed for context-aware and fact-based answers  
+
+---
+
+### YouTube Notes Extractor  
+- Extracted transcripts from YouTube videos  
+- Converted long content into structured notes  
+- Applied summarization techniques  
+
+---
+
+### Loan Approval Prediction System  
+- Built a classification model for loan approval prediction  
+- Performed EDA, feature engineering, preprocessing  
+- Evaluated using performance metrics  
+
+---
+
+### Text Summarization Tool  
+- Built using HuggingFace Transformers  
+- Converts long text into concise summaries  
+- Focus on real-world NLP use case  
+
+---
+
+## GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact)
+
+---
+
+## Experience  
+
+**GeeksforGeeks — Data Science Intern (1 Month)**  
+- Worked on practical data science problems and implementations  
+- Strengthened understanding of ML workflows and real-world datasets  
+- Applied theoretical concepts to projects  
+
+---
+
+## Connect  
+
+- Email: srivastavapradhumn@gmail.com  
+- LinkedIn: www.linkedin.com/in/pradhumn-srivastava  
+
+---
