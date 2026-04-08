@@ -3,13 +3,10 @@
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ## **Data Scientist**
-
+![AI](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 ## Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight)
 
-## GitHub Stats  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=darkhub&row=1&column=4)
 
 ## Activity Streak
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava)
