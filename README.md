@@ -2,7 +2,7 @@
 ![Typing](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Data+Science;Machine+Learning;LLMs+%7C+RAG+%7C+GenAI)
 
 ## **Data Scientist**
-![AI](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Typing](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Data+Science;Machine+Learning;LLMs+%7C+RAG+%7C+GenAI)
 ## Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight)
 
