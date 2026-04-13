@@ -1,25 +1,25 @@
-# Hi there, Pradhumn Srivastava
-![Typing](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Data+Science;Machine+Learning;LLMs+%7C+RAG+%7C+GenAI)
+# Hi there, I'm Pradhumn Srivastava 👋
 
-Focused on **Machine Learning, Deep Learning, NLP, and Generative AI**, with practical experience in building real-world systems.  
-Currently exploring **LLMs, RAG, and Agentic AI** to develop intelligent, scalable solutions.
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chat.z.ai/space/h1f4w3r5s1e1-art)
 
-## **Data Scientist**
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-## Contribution Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight)
-
-
-## Activity Streak
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava)
-
-![Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradhumnSrivastava&theme=github_dark)
+<a href="https://chat.z.ai/space/h1f4w3r5s1e1-art" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Data+Science;Machine+Learning;LLMs+%7C+RAG+%7C+GenAI" />
+</a>
 
 ---
 
-## Tech Stack  
+## 🚀 About Me  
+
+I am a Data Science enthusiast with a background in commerce, focused on building real-world AI systems using Machine Learning, NLP, and Generative AI.  
+
+Currently exploring:
+- LLMs (Large Language Models)  
+- RAG (Retrieval-Augmented Generation)  
+- Agentic AI systems  
+
+---
+
+## 🧠 Tech Stack  
 
 ### Languages & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,68 +45,72 @@ Currently exploring **LLMs, RAG, and Agentic AI** to develop intelligent, scalab
 
 ---
 
-## Current Focus  
-- Building **End-to-End Data Science & AI Projects**  
-- Practicing **EDA (Exploratory Data Analysis)**  
-- Understanding ML from **math + intuition level**  
-- Developing **LLM + RAG + Agentic AI systems**  
-- Preparing for **Data Science Interviews**
+## 📊 GitHub Stats  
+
+<a href="https://chat.z.ai/space/h1f4w3r5s1e1-art" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight" />
+</a>
+
+<a href="https://chat.z.ai/space/h1f4w3r5s1e1-art" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava" />
+</a>
+
+<a href="https://chat.z.ai/space/h1f4w3r5s1e1-art" target="_blank">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</a>
+
+<a href="https://chat.z.ai/space/h1f4w3r5s1e1-art" target="_blank">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradhumnSrivastava&theme=github_dark" />
+</a>
 
 ---
 
-## Featured Projects  
+## 🚀 Featured Projects  
 
-### Sentiment Analysis System  
+### 🔹 Sentiment Analysis  
 - NLP-based model to classify text into positive, negative, and neutral sentiments  
-- Applied preprocessing (tokenization, stopword removal, vectorization)  
-- Trained and evaluated classification models  
+- Applied preprocessing and feature engineering  
+- Built classification models using Scikit-learn  
 
 ---
 
-### Movie Recommendation System  
-- Built a content-based recommendation engine  
-- Used similarity metrics for personalized suggestions  
-- Focused on scalability and relevance  
-
----
-
-### RAG-based Chatbot  
-- Implemented Retrieval-Augmented Generation using LLMs  
-- Combined document retrieval with response generation  
-- Designed for context-aware and fact-based answers  
-
----
-
-### YouTube Notes Extractor  
+### 🔹 YouTube Notes Extractor  
 - Extracted transcripts from YouTube videos  
-- Converted long content into structured notes  
-- Applied summarization techniques  
+- Converted long content into structured notes using FLAN-T5  
+- Applied NLP and transformer-based summarization  
 
 ---
 
-### Loan Approval Prediction System  
-- Built a classification model for loan approval prediction  
-- Performed EDA, feature engineering, preprocessing  
+### 🔹 RAG-based Chatbot  
+- Implemented Retrieval-Augmented Generation using LLMs  
+- Combined vector search (FAISS) with response generation  
+- Built context-aware AI system  
+
+---
+
+### 🔹 Loan Approval Prediction System  
+- Built classification model for loan approval  
+- Performed EDA, preprocessing, and feature engineering  
 - Evaluated using performance metrics  
 
 ---
 
-### Text Summarization Tool  
-- Built using HuggingFace Transformers  
-- Converts long text into concise summaries  
-- Focus on real-world NLP use case  
+## 🎯 Current Focus  
 
-## Experience  
-
-**GeeksforGeeks — Data Science Intern (3 Month)**  
-- Worked on practical data science problems and implementations  
-- Strengthened understanding of ML workflows and real-world datasets  
-- Applied theoretical concepts to projects  
+- Building End-to-End Data Science Projects  
+- Practicing EDA (Exploratory Data Analysis)  
+- Understanding ML deeply (math + intuition)  
+- Working on LLM + RAG + Agentic AI  
+- Preparing for Data Science Interviews  
 
 ---
 
-## Connect  
+## 🤝 Connect With Me  
 
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavapradhumn@gmail.com) srivastavapradhumn@gmail.com  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhumn-srivastava) www.linkedin.com/in/pradhumn-srivastava  
+- 📧 Email: srivastavapradhumn@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pradhumn-srivastava  
+- 💻 GitHub: https://github.com/PradhumnSrivastava  
 
+---
+
+⭐ *If you like my work, feel free to connect and collaborate!*
