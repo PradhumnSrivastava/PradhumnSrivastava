@@ -1,6 +1,6 @@
 # Hi there, I'm Pradhumn Srivastava 👋
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chat.z.ai/space/h1f4w3r5s1e1-art)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chat.z.ai/space/n1a433ph73s1-art)
 
 <a href="https://chat.z.ai/space/h1f4w3r5s1e1-art" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Data+Science;Machine+Learning;LLMs+%7C+RAG+%7C+GenAI" />
