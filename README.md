@@ -65,7 +65,7 @@ Currently exploring:
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 ### 🔹 Sentiment Analysis  
 - NLP-based model to classify text into positive, negative, and neutral sentiments  
@@ -95,7 +95,7 @@ Currently exploring:
 
 ---
 
-## 🎯 Current Focus  
+## Current Focus  
 
 - Building End-to-End Data Science Projects  
 - Practicing EDA (Exploratory Data Analysis)  
