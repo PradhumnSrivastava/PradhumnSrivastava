@@ -1,4 +1,4 @@
-# Hi there, I'm Pradhumn Srivastava 👋
+# Hi there, I'm Pradhumn Srivastava
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chat.z.ai/space/n1a433ph73s1-art)
 
