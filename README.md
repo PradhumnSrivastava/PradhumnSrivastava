@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 I am a Data Science enthusiast with a background in commerce, focused on building real-world AI systems using Machine Learning, NLP, and Generative AI.  
 
