@@ -4,43 +4,34 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F6FEB,100:38BDF8&text=Pradhumn%20Kumar%20Srivastava&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20•%20Machine%20Learning%20Engineer%20•%20Data%20Scientist&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:2563EB,100:00E5FF&text=Pradhumn%20Srivastava&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Data%20Scientist%20•%20AI%20Engineer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Production+AI+Systems;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+RAG+%7C+Agentic+AI;MLOps+%7C+AI+Engineering;Open+Source+%7C+Research+%7C+Innovation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Real-World+AI+Systems;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+RAG+%7C+Agentic+AI;MLOps+%7C+AI+Engineering;Always+Learning+Something+New"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/PradhumnSrivastava">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pradhumn-srivastava">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:srivastavapradhumn@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- Uncomment when portfolio is ready
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
 </a>
--->
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PradhumnSrivastava&label=Profile%20Views&style=for-the-badge&color=58A6FF"/>
-
-<img src="https://img.shields.io/github/followers/PradhumnSrivastava?style=for-the-badge&label=Followers&color=58A6FF"/>
-
-<img src="https://img.shields.io/github/stars/PradhumnSrivastava?affiliations=OWNER&style=for-the-badge&label=Total%20Stars&color=58A6FF"/>
+<img src="https://komarev.com/ghpvc/?username=PradhumnSrivastava&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
----
-
-<div align="center">
 
 ### Building intelligent AI systems that solve real-world problems through Machine Learning, Deep Learning, LLMs, RAG, Agentic AI, and MLOps.
 
