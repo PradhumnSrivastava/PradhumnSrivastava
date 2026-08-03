@@ -252,13 +252,6 @@ Python • DVC • Docker • FastAPI
 
 </div>
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact&theme=transparent&hide_border=true&langs_count=8&exclude_repo=Machine-Learning-from-Scratch,Deep-Learning-from-Scratch"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradhumnSrivastava&theme=github_dark"/>
-
-</div>
 
 <div align="center">
 
