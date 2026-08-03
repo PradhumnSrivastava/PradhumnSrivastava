@@ -4,29 +4,37 @@
 
 <div align="center">
 
-# Pradhumn Kumar Srivastava
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F6FEB,100:38BDF8&text=Pradhumn%20Kumar%20Srivastava&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20•%20Machine%20Learning%20Engineer%20•%20Data%20Scientist&descAlignY=58"/>
 
-### AI Engineer • Machine Learning Engineer • Data Scientist • Open Source Builder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Production+AI+Systems;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+RAG+%7C+Agentic+AI;MLOps+%7C+AI+Engineering;Open+Source+%7C+Research+%7C+Innovation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Machine+Learning+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;MLOps+%7C+Deep+Learning+%7C+Computer+Vision;Always+Learning.+Always+Building." />
+<br><br>
 
-<br>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/PradhumnSrivastava">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/pradhumn-srivastava">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="mailto:srivastavapradhumn@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail"/>
+<!-- Uncomment when portfolio is ready
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+-->
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PradhumnSrivastava&label=Profile%20Views&style=for-the-badge&color=58A6FF"/>
+
+<img src="https://img.shields.io/github/followers/PradhumnSrivastava?style=for-the-badge&label=Followers&color=58A6FF"/>
+
+<img src="https://img.shields.io/github/stars/PradhumnSrivastava?affiliations=OWNER&style=for-the-badge&label=Total%20Stars&color=58A6FF"/>
 
 </div>
 
@@ -34,21 +42,9 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6)
+### Building intelligent AI systems that solve real-world problems through Machine Learning, Deep Learning, LLMs, RAG, Agentic AI, and MLOps.
 
-</div>
-
----
-
-# About Me
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### Currently Building
+</div>### Currently Building
 
 - Medical Insurance Cost Prediction (MLOps)
 - Universal OCR AI
