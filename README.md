@@ -90,3 +90,152 @@ Passionate about engineering AI systems that move beyond experimentation into re
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure,aws" />
 </p>
+
+## Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Medical Insurance Cost Prediction
+
+Production-ready Machine Learning pipeline with MLOps, experiment tracking, model versioning, CI/CD, and deployment.
+
+**Tech Stack**
+
+Python • Scikit-Learn • MLflow • DVC • Docker • FastAPI
+
+<a href="https://github.com/PradhumnSrivastava/Medical-Insurance-Cost-Prediction">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Agentic AI Workflows
+
+Autonomous AI agents built using LangGraph with tool calling, memory, planning, and stateful workflows.
+
+**Tech Stack**
+
+LangGraph • OpenAI • Python • FastAPI
+
+<a href="https://github.com/PradhumnSrivastava/Agentic-AI-using-Langgraph">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### RAG Chatbot
+
+Retrieval-Augmented Generation chatbot with semantic search, vector database integration, and LLM-powered responses.
+
+**Tech Stack**
+
+LangChain • FAISS • Hugging Face • OpenAI
+
+<a href="https://github.com/PradhumnSrivastava/ChatBot-using-RAG-and-LLM">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td valign="top">
+
+### Universal OCR AI
+
+AI-powered OCR platform for multilingual document understanding, translation, and intelligent text extraction.
+
+**Tech Stack**
+
+Python • PaddleOCR • EasyOCR • Transformers
+
+<a href="https://github.com/PradhumnSrivastava/OCR-Project">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### Vehicle Detection System
+
+Real-time vehicle detection and counting system using YOLO and OpenCV for intelligent traffic monitoring.
+
+**Tech Stack**
+
+Python • YOLO • OpenCV • Streamlit
+
+<a href="https://github.com/PradhumnSrivastava/vehicle-detection-system">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td valign="top">
+
+### AI Resume Screening
+
+NLP-based resume screening system that ranks candidates by matching resumes with job descriptions.
+
+**Tech Stack**
+
+Python • NLP • Scikit-Learn • Streamlit
+
+<a href="https://github.com/PradhumnSrivastava/Resume-Screening">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### Experiment Tracking with MLflow
+
+Comprehensive experiment tracking system for machine learning lifecycle management and reproducibility.
+
+**Tech Stack**
+
+MLflow • Python • Scikit-Learn
+
+<a href="https://github.com/PradhumnSrivastava/Experiment-Tracking-With-MLflow">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td valign="top">
+
+### End-to-End ML Pipeline
+
+Modular machine learning pipeline with data validation, training, versioning, and deployment following MLOps best practices.
+
+**Tech Stack**
+
+Python • DVC • Docker • FastAPI
+
+<a href="https://github.com/PradhumnSrivastava/End-to-End-Machine-Learning-Pipeline-Using-DVC">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
