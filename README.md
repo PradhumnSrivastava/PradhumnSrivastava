@@ -211,6 +211,16 @@ I enjoy learning the mathematics behind AI as much as building real-world applic
 
 </div>
 
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PradhumnSrivastava/PradhumnSrivastava/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
 <br>
 
 <div align="center">
