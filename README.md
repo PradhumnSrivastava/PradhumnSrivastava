@@ -314,3 +314,4 @@ Goal: AI Engineer
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1F6FEB,100:38BDF8"/>
 
 </div>
+
