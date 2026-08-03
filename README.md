@@ -69,50 +69,86 @@ I enjoy learning the mathematics behind AI as much as building real-world applic
 
 # Tech Stack
 
-### Programming
+## Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,sql"/>
+<img src="https://skillicons.dev/icons?i=python,sql"/>
 </p>
 
 ---
 
-### Data Science
+## Data Analysis & Preprocessing
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas"/>
 </p>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 ---
 
-### Deep Learning
+## Machine Learning
 
 <p align="left">
+
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+
+</p>
+
+<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CatBoost-00599C?style=for-the-badge"/>
+
+---
+
+## Deep Learning
+
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
 </p>
 
 ---
 
-### AI Engineering
+## Natural Language Processing (NLP)
 
-<p align="left">
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLTK-154F9B?style=for-the-badge"/>
+
+---
+
+## Generative AI & Agentic AI
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangSmith-0B0B0B?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge"/>
 
 ---
 
-### MLOps
+## MLOps & Deployment
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
+
 </p>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
@@ -121,19 +157,24 @@ I enjoy learning the mathematics behind AI as much as building real-world applic
 
 <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge"/>
+
 ---
 
-# Core Interests
+## Databases
 
-```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Natural Language Processing
-Large Language Models (LLMs)
-Retrieval-Augmented Generation (RAG)
-Agentic AI
-MLOps
-AI Engineering
-Computer Vision
-```
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+</p>
+
+---
+
+## Development Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda"/>
+
+</p>
