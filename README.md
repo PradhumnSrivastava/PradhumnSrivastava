@@ -258,9 +258,9 @@ Python • DVC • Docker • FastAPI
 
 ## Current Focus
 
-```text
-Building     Production AI Systems
-Learning     Agentic AI • LLMOps • Azure AI
-Research     LLMs • RAG • Multimodal AI
-Goal         AI Engineer
+```yaml
+Building: Production AI Systems
+Learning: Agentic AI, LangGraph, LLMOps
+Research: LLMs, RAG, Multimodal AI
+Goal: AI Engineer
 ```
