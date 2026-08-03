@@ -1,30 +1,40 @@
+<!-- ========================================================= -->
+<!--                       HERO SECTION                         -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:2563EB,100:00E5FF&text=Pradhumn%20Srivastava&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Data%20Scientist%20•%20AI%20Engineer&descAlignY=58"/>
+# Pradhumn Kumar Srivastava
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Real-World+AI+Systems;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+RAG+%7C+Agentic+AI;MLOps+%7C+AI+Engineering;Always+Learning+Something+New"/>
+### AI Engineer • Machine Learning Engineer • Data Scientist • Open Source Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Machine+Learning+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;MLOps+%7C+Deep+Learning+%7C+Computer+Vision;Always+Learning.+Always+Building." />
 
 <br>
 
-<a href="https://github.com/PradhumnSrivastava">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pradhumn-srivastava">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:srivastavapradhumn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail"/>
 </a>
 
-<br><br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=PradhumnSrivastava&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -32,38 +42,168 @@
 
 # About Me
 
-I'm a **Data Scientist** with a strong interest in building intelligent systems using **Machine Learning, Deep Learning, Natural Language Processing, and Generative AI**.
+<table>
 
-My primary focus is designing **production-ready AI applications**, ranging from traditional ML pipelines to modern **LLM-powered** systems and **Agentic AI workflows**.
+<tr>
 
-I enjoy learning the mathematics behind AI as much as building real-world applications.
+<td width="50%">
 
----
+### Currently Building
 
-# Currently Working On
+- Medical Insurance Cost Prediction (MLOps)
+- Universal OCR AI
+- RAG Chatbot
+- Agentic AI Workflows
+- Production AI Pipelines
 
-| Project | Description |
-|----------|-------------|
-| Medical Insurance Cost Prediction | End-to-End ML Pipeline with MLOps |
-| Universal OCR AI | OCR + Translation + Document Understanding |
-| RAG Chatbot | Context-aware chatbot using FAISS & LLMs |
-| Agentic AI | Multi-Agent workflows using LangGraph |
+</td>
 
----
+<td width="50%">
 
-# Current Learning
+### Current Learning
 
 - Advanced Machine Learning
 - Deep Learning
-- Agentic AI
 - LangGraph
-- Model Context Protocol (MCP)
-- Advanced RAG
-- FastAPI
-- Docker
-- MLflow
-- DVC
+- Agentic AI
+- LLMOps
 - Azure AI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Research Interests
+
+- Large Language Models
+- Retrieval Augmented Generation
+- AI Agents
+- Vision Language Models
+- AI Infrastructure
+- Model Optimization
+
+</td>
+
+<td>
+
+### Career Goal
+
+Building scalable AI products that solve real-world problems through Machine Learning, LLMs, MLOps and Agentic AI.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# AI Dashboard
+
+<table>
+
+<tr>
+
+<th>Current Focus</th>
+<th>Current Project</th>
+
+</tr>
+
+<tr>
+
+<td>
+
+Production AI Engineering
+
+</td>
+
+<td>
+
+Medical Insurance Cost Prediction
+
+</td>
+
+</tr>
+
+<tr>
+
+<th>Learning</th>
+
+<th>Research</th>
+
+</tr>
+
+<tr>
+
+<td>
+
+Agentic AI + LangGraph
+
+</td>
+
+<td>
+
+Autonomous AI Systems
+
+</td>
+
+</tr>
+
+<tr>
+
+<th>Current Tech</th>
+
+<th>Target Role</th>
+
+</tr>
+
+<tr>
+
+<td>
+
+Python • ML • DL • LLMs • RAG • FastAPI
+
+</td>
+
+<td>
+
+AI Engineer
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Engineering Focus
+
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        │
+        ├── Deep Learning
+        │
+        ├── Computer Vision
+        │
+        ├── NLP
+        │
+        ├── Generative AI
+        │
+        ├── RAG
+        │
+        ├── Agentic AI
+        │
+        ├── MLOps
+        │
+        └── Production Deployment
+```
 
 ---
 
@@ -71,152 +211,190 @@ I enjoy learning the mathematics behind AI as much as building real-world applic
 
 ## Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,sql"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
+
 </p>
 
 ---
 
-## Data Analysis & Preprocessing
+## Data Analysis & Visualization
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=numpy,pandas"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Numpy-0D1117?style=flat&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=flat"/>
+
 </p>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 ---
 
 ## Machine Learning
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=sklearn"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/LightGBM-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/CatBoost-0D1117?style=flat"/>
 
 </p>
-
-<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CatBoost-00599C?style=for-the-badge"/>
 
 ---
 
 ## Deep Learning
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
+<img src="https://img.shields.io/badge/Keras-0D1117?style=flat&logo=keras"/>
+
+</p>
+
+---
+
+## Natural Language Processing
+
+<p>
+
+<img src="https://img.shields.io/badge/NLTK-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/spaCy-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/Transformers-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/SentenceTransformers-0D1117?style=flat"/>
+
 </p>
 
 ---
 
-## Natural Language Processing (NLP)
+## Generative AI
 
-<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge"/>
+<p>
 
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=openai"/>
 
-<img src="https://img.shields.io/badge/NLTK-154F9B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat&logo=huggingface"/>
 
----
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat"/>
 
-## Generative AI & Agentic AI
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangSmith-0B0B0B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge"/>
-
----
-
-## MLOps & Deployment
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
+<img src="https://img.shields.io/badge/LlamaIndex-0D1117?style=flat"/>
 
 </p>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+## Agentic AI
 
-<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge"/>
+<p>
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/CrewAI-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/AutoGen-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/PydanticAI-0D1117?style=flat"/>
+
+</p>
+
+---
+
+## AI Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/RAG-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/Vector%20Databases-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/Embeddings-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/Fine%20Tuning-0D1117?style=flat"/>
+
+</p>
+
+---
+
+## MLOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://img.shields.io/badge/MLflow-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/DVC-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat&logo=githubactions"/>
+
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat&logo=fastapi"/>
+
+</p>
 
 ---
 
 ## Databases
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+<img src="https://img.shields.io/badge/FAISS-0D1117?style=flat"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat"/>
 
 </p>
 
 ---
 
+## Cloud
 
-## Development Tools
+<p>
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp"/>
 
 </p>
 
+---
 
-<!-- ========================================================= -->
-<!--                  GITHUB ANALYTICS                         -->
-<!-- ========================================================= -->
+## Development Tools
 
-# GitHub Analytics
+<p>
 
-# GitHub Analytics
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,bash"/>
 
-<div align="center">
+</p>
 
-<img src="./github-metrics.svg" alt="GitHub Metrics"/>
+---
 
-</div>
+# Philosophy
 
-<div align="center">
+> Build AI that is **useful**, **reliable**, **scalable**, and **production-ready**.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+> Learning never stops. Every project is an opportunity to engineer better systems.
 
-<img height="170em" src="https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight&hide_border=true"/>
-
-</div>
+---
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact&theme=tokyonight&hide_border=true"/>
+### Turning Ideas into Intelligent Systems
 
 </div>
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+<!-- ===================== END OF PART 1 ====================== -->
