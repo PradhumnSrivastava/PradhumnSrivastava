@@ -187,6 +187,14 @@ I enjoy learning the mathematics behind AI as much as building real-world applic
 
 # GitHub Analytics
 
+# GitHub Analytics
+
+<div align="center">
+
+<img src="./github-metrics.svg" alt="GitHub Metrics"/>
+
+</div>
+
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
