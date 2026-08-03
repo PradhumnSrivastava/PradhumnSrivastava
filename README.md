@@ -264,3 +264,53 @@ Learning: Agentic AI, LangGraph, LLMOps
 Research: LLMs, RAG, Multimodal AI
 Goal: AI Engineer
 ```
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Open+to+AI+Engineering+Opportunities;Let's+Build+Something+Amazing+Together;Machine+Learning+%7C+LLMs+%7C+Agentic+AI"/>
+</p>
+
+<p align="center">
+
+<a href="mailto:srivastavapradhumn@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pradhumn-srivastava">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PradhumnSrivastava">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/PradhumnSrivastava?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PradhumnSrivastava?tab=stars">
+<img src="https://img.shields.io/badge/Open%20Source-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+</a>
+
+</p>
+
+<div align="center">
+
+> **Interested in AI Engineering, Machine Learning, LLMs, RAG, Agentic AI, or Open Source?**
+>
+> **Let's connect and build impactful AI solutions together.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1F6FEB,100:38BDF8"/>
+
+</div>
