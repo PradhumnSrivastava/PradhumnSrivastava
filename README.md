@@ -189,44 +189,26 @@ I enjoy learning the mathematics behind AI as much as building real-world applic
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
-# Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PradhumnSrivastava/PradhumnSrivastava/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
-
----
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
