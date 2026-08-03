@@ -13,25 +13,93 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Metrics
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
+          # GitHub Token
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # GitHub Username
           user: PradhumnSrivastava
 
+          ########################################
+          # Output
+          ########################################
+
+          filename: github-metrics.svg
+          commit: yes
+
+          ########################################
+          # Template
+          ########################################
+
           template: classic
+
           base: header, activity, community, repositories, metadata
 
           config_timezone: Asia/Kolkata
+
+          ########################################
+          # Languages
+          ########################################
 
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
+          plugin_languages_recent_categories: markup, programming
+
+          ########################################
+          # Habits
+          ########################################
+
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          ########################################
+          # Calendar
+          ########################################
 
           plugin_isocalendar: yes
-          plugin_stars: yes
-          plugin_topics: yes
-          plugin_habits: yes
 
-          filename: github-metrics.svg
+          ########################################
+          # Stars
+          ########################################
+
+          plugin_stars: yes
+
+          ########################################
+          # Topics
+          ########################################
+
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: starred
+
+          ########################################
+          # Lines Changed
+          ########################################
+
+          plugin_lines: yes
+
+          ########################################
+          # Repositories
+          ########################################
+
+          plugin_repositories: yes
+          plugin_repositories_featured: Medical-Insurance-Cost-Prediction,Agentic-AI-using-Langgraph,ChatBot-using-RAG-and-LLM
+
+          ########################################
+          # Achievements
+          ########################################
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          ########################################
+          # Follow-up
+          ########################################
+
+          plugin_followup: yes
