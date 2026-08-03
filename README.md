@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:2563EB,100:00E5FF&text=Pradhumn%20Srivastava&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Data%20Scientist%20•%20AI%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:2563EB,100:00E5FF&text=Pradhumn%20Srivastava&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Data%20Scientist%20•%20AI%20Engineer&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Real-World+AI+Systems;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+RAG+%7C+Agentic+AI;MLOps+%7C+AI+Engineering;Always+Learning+Something+New"/>
 
