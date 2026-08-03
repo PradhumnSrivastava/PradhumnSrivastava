@@ -1,18 +1,30 @@
 <div align="center">
 
-# Hi, I'm Pradhumn Srivastava
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:2563EB,100:00E5FF&text=Pradhumn%20Srivastava&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Data%20Scientist%20•%20AI%20Engineer&descAlignY=58"/>
 
-### Data Scientist • AI Engineer • Machine Learning • Generative AI
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Machine+Learning;LLMs+%7C+RAG+%7C+Agentic+AI;Building+Real-World+AI+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Real-World+AI+Systems;Machine+Learning+%7C+Deep+Learning;LLMs+%7C+RAG+%7C+Agentic+AI;MLOps+%7C+AI+Engineering;Always+Learning+Something+New"/>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO)
+<a href="https://github.com/PradhumnSrivastava">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+<a href="https://www.linkedin.com/in/pradhumn-srivastava">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<a href="mailto:srivastavapradhumn@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PradhumnSrivastava&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
@@ -20,190 +32,296 @@
 
 # About Me
 
-I am a **Data Scientist** and **AI Engineer** passionate about building intelligent systems using Machine Learning, Deep Learning, NLP, and Large Language Models.
+I'm a **Data Scientist** with a strong interest in building intelligent systems using **Machine Learning, Deep Learning, Natural Language Processing, and Generative AI**.
 
-Currently focusing on
+My primary focus is designing **production-ready AI applications**, ranging from traditional ML pipelines to modern **LLM-powered** systems and **Agentic AI workflows**.
 
-- Machine Learning
+I enjoy learning the mathematics behind AI as much as building real-world applications.
+
+---
+
+# Currently Working On
+
+| Project | Description |
+|----------|-------------|
+| Medical Insurance Cost Prediction | End-to-End ML Pipeline with MLOps |
+| Universal OCR AI | OCR + Translation + Document Understanding |
+| RAG Chatbot | Context-aware chatbot using FAISS & LLMs |
+| Agentic AI | Multi-Agent workflows using LangGraph |
+
+---
+
+# Current Learning
+
+- Advanced Machine Learning
 - Deep Learning
-- LLMs
-- Retrieval-Augmented Generation (RAG)
 - Agentic AI
-- MLOps
-- AI Engineering
+- LangGraph
+- Model Context Protocol (MCP)
+- Advanced RAG
+- FastAPI
+- Docker
+- MLflow
+- DVC
+- Azure AI
 
 ---
 
 # Tech Stack
 
-## Languages
+### Programming
 
-<p>
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,sql"/>
-
 </p>
 
 ---
 
-## AI & Machine Learning
+### Data Science
 
-<p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn"/>
+</p>
 
+---
+
+### Deep Learning
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+---
+
+### AI Engineering
+
+<p align="left">
 
 <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MLflow-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## Data Science
+### MLOps
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-5A9BD4?style=for-the-badge"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
 </p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge"/>
 
 ---
 
-## Tools
+# Core Interests
 
-<p>
+```text
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Natural Language Processing
+Large Language Models (LLMs)
+Retrieval-Augmented Generation (RAG)
+Agentic AI
+MLOps
+AI Engineering
+Computer Vision
+```
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker"/>
+<!-- ========================================================= -->
+<!--                 AI ECOSYSTEM                              -->
+<!-- ========================================================= -->
 
-</p>
+# AI Ecosystem
 
----
+<div align="center">
 
-# GitHub Analytics
+| Domain | Technologies |
+|:------|:-------------|
+| 🤖 Large Language Models | OpenAI • Hugging Face • Transformers |
+| 🧠 Agentic AI | LangGraph • LangChain |
+| 📚 Retrieval | FAISS • Vector Search • Embeddings |
+| ⚡ Backend | FastAPI |
+| 📦 Deployment | Docker |
+| 📊 Experiment Tracking | MLflow |
+| 📁 Data Versioning | DVC |
+| 🔬 Machine Learning | Scikit-Learn |
+| 🔥 Deep Learning | TensorFlow • PyTorch |
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PradhumnSrivastava&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
 # Featured Projects
 
-### AI Projects
+<table>
 
-### RAG Chatbot
+<tr>
 
-Retrieval-Augmented Generation chatbot using
+<td width="50%">
 
-- LangChain
-- FAISS
-- HuggingFace
-- LLMs
+## Medical Insurance Cost Prediction
 
----
+End-to-End Machine Learning Pipeline
 
-### YouTube Notes Extractor
+**Highlights**
 
-- Transcript Extraction
-- FLAN-T5
-- NLP Summarization
-- Transformers
+- Data Validation
+- Feature Engineering
+- Model Training
+- MLflow
+- Docker
+- DVC
+- GitHub Actions
+- MLOps
 
----
+**Tech**
 
-### Universal OCR
+Python • Scikit-Learn • MLflow • Docker
+
+</td>
+
+<td width="50%">
+
+## Universal OCR AI
+
+AI-powered document understanding system.
+
+**Highlights**
 
 - PaddleOCR
 - EasyOCR
 - Translation
-- Document Understanding
+- Layout Detection
+- OCR Pipeline
+
+**Tech**
+
+Python • OCR • NLP
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## RAG Chatbot
+
+Retrieval-Augmented Generation chatbot.
+
+**Highlights**
+
+- FAISS
+- LangChain
+- Hugging Face
+- Prompt Engineering
+- Semantic Search
+
+**Tech**
+
+LLMs • LangChain • FAISS
+
+</td>
+
+<td width="50%">
+
+## YouTube Notes Generator
+
+Generate structured notes from videos.
+
+**Highlights**
+
+- Transcript Extraction
+- FLAN-T5
+- Summarization
+- NLP
+
+**Tech**
+
+Transformers • NLP
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-### Medical Insurance Cost Prediction
+# GitHub Analytics
 
-- Complete ML Pipeline
-- MLflow
-- Docker
-- CI/CD
-- DVC
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### Loan Approval Prediction
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- Feature Engineering
-- EDA
-- Classification
-- Hyperparameter Tuning
-
----
-
-# Learning Roadmap
-
-Currently exploring
-
-- Advanced Deep Learning
-- AI Agents
-- Multi-Agent Systems
-- LangGraph
-- MCP
-- MLOps
-- LLMOps
-- Kubernetes
-- Azure AI
-
----
-
-# Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-
-</a>
-
-<a href="https://github.com/PradhumnSrivastava">
-
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
-
-Building intelligent AI systems one project at a time.
+<img src="https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Development Activity
+
+```text
+Machine Learning        ████████████████████ 95%
+
+Deep Learning           █████████████████░░ 85%
+
+LLMs                    ████████████████░░░ 80%
+
+RAG                     ██████████████░░░░░ 75%
+
+Agentic AI              ███████████░░░░░░░░ 60%
+
+MLOps                   ██████████░░░░░░░░░ 55%
+```
+
+---
