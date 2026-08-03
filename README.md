@@ -252,8 +252,15 @@ Python • DVC • Docker • FastAPI
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava&theme=github-dark&hide_border=true"/>
 </div>
 
-
-
 <div align="center">
 <img width="70%" src="https://raw.githubusercontent.com/PradhumnSrivastava/PradhumnSrivastava/main/github-metrics.svg"/>
 </div>
+
+## Current Focus
+
+```text
+Building     Production AI Systems
+Learning     Agentic AI • LLMOps • Azure AI
+Research     LLMs • RAG • Multimodal AI
+Goal         AI Engineer
+```
