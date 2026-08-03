@@ -255,5 +255,5 @@ Python • DVC • Docker • FastAPI
 
 
 <div align="center">
-<img width="80%" src="https://raw.githubusercontent.com/PradhumnSrivastava/PradhumnSrivastava/main/github-metrics.svg"/>
+<img width="70%" src="https://raw.githubusercontent.com/PradhumnSrivastava/PradhumnSrivastava/main/github-metrics.svg"/>
 </div>
