@@ -242,7 +242,6 @@ Python • DVC • Docker • FastAPI
 
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
@@ -257,7 +256,7 @@ Python • DVC • Docker • FastAPI
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PradhumnSrivastava&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PradhumnSrivastava&theme=github_dark"/>
 
 </div>
 
@@ -269,33 +268,6 @@ Python • DVC • Docker • FastAPI
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=algolia&no-frame=true&column=4"/>
 
 </div>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradhumnSrivastava&theme=github_dark"/>
-
-</div>
-
----
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/PradhumnSrivastava/PradhumnSrivastava/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-## GitHub Metrics
-
-<p align="center">
-
-<img src="/github-metrics.svg" width="100%">
-
-</p>
-
----
