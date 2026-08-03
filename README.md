@@ -245,24 +245,15 @@ Python • DVC • Docker • FastAPI
 ## GitHub Analytics
 
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
 <img width="49%" src="https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=transparent&hide_border=true"/>
-
 </div>
 
 <div align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PradhumnSrivastava&theme=github-dark&hide_border=true"/>
-
 </div>
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
-
-</div>
 
 <div align="center">
 
