@@ -35,3 +35,58 @@
 ## About Me
 
 Passionate about engineering AI systems that move beyond experimentation into real-world impact. I specialize in Machine Learning, Deep Learning, Generative AI, and MLOps, with a growing focus on LLMs, RAG, and Agentic AI. I believe great AI is built through clean engineering, continuous learning, and open-source collaboration.
+
+
+## Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+</p>
+
+### Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-0D1117?style=for-the-badge&logoColor=white" />
+</p>
+
+### Deep Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### NLP
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Transformers-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/spaCy-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLTK-0D1117?style=for-the-badge" />
+</p>
+
+### Generative AI & Agentic AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangSmith-0D1117?style=for-the-badge" />
+</p>
+
+### MLOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+  <img src="https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DVC-0D1117?style=for-the-badge" />
+</p>
+
+### Databases & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure,aws" />
+</p>
