@@ -246,17 +246,17 @@ Python • DVC • Docker • FastAPI
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PradhumnSrivastava&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=PradhumnSrivastava&theme=transparent&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradhumnSrivastava&layout=compact&theme=transparent&hide_border=true&langs_count=8&exclude_repo=Machine-Learning-from-Scratch,Deep-Learning-from-Scratch"/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PradhumnSrivastava&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradhumnSrivastava&theme=github_dark"/>
 
 </div>
 
@@ -268,6 +268,12 @@ Python • DVC • Docker • FastAPI
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PradhumnSrivastava&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/PradhumnSrivastava/PradhumnSrivastava/main/github-metrics.svg"/>
 
 </div>
