@@ -26,10 +26,6 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=PradhumnSrivastava&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
