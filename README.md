@@ -104,7 +104,7 @@ Passionate about engineering AI systems that move beyond experimentation into re
 
 ### Medical Insurance Cost Prediction
 
-Production-ready Machine Learning pipeline with MLOps, experiment tracking, model versioning, CI/CD, and deployment.
+Production-ready complete Machine Learning pipeline with MLOps, experiment tracking, model versioning, CI/CD, and deployment.
 
 **Tech Stack**
 
