@@ -228,7 +228,7 @@ MLflow • Python • Scikit-Learn
 
 ### End-to-End ML Pipeline
 
-Modular machine learning pipeline with data validation, training, versioning, and deployment following MLOps best practices.
+Modular and complete machine learning pipeline with data validation, training, versioning, and deployment following MLOps best practices.
 
 **Tech Stack**
 
