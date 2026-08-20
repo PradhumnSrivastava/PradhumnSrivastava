@@ -38,7 +38,7 @@
 
 ## About Me
 
-Passionate about engineering AI systems that move beyond experimentation into real-world impact. I specialize in Machine Learning, Deep Learning, Generative AI, and MLOps, with a growing focus on LLMs, RAG, and Agentic AI. I believe great AI is built through clean engineering, continuous learning, and open-source collaboration.
+Passionate about Ai engineering AI systems that move beyond experimentation into real-world impact. I specialize in Machine Learning, Deep Learning, Generative AI, and MLOps, with a growing focus on LLMs, RAG, and Agentic AI. I believe great AI is built through clean engineering, continuous learning, and open-source collaboration.
 
 
 ## Tech Stack
